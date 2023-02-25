@@ -90,6 +90,10 @@
   list-style: none;
 }
 
+.resource{
+  background-color: rgb(207, 231, 223);
+
+}
 /* clients */
 .client{
   width: 90%;
